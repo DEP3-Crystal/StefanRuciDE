@@ -1,5 +1,7 @@
 ## Requerments
-``` Collect all ISO country code.
+``` 
+Take Data From "https://date.nager.at" API
+Collect all ISO country code.
 For each country we ask for public holidays
 Select country(s) with max num of PH
 Select country(s) with min num of PH
