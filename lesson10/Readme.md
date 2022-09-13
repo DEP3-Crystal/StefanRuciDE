@@ -27,383 +27,240 @@ CountryCodeList.stream()
  ``` 
 Collect all ISO country code: 
 
-PublicHolidays.CountryInfo(name=Afghanistan, code=AF, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Åland Islands, code=AX, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Albania, code=AL, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Algeria, code=DZ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=American Samoa, code=AS, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Andorra, code=AD, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Angola, code=AO, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Anguilla, code=AI, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Antarctica, code=AQ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Antigua and Barbuda, code=AG, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Argentina, code=AR, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Armenia, code=AM, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Aruba, code=AW, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Australia, code=AU, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Austria, code=AT, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Azerbaijan, code=AZ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Bahamas, code=BS, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Bahrain, code=BH, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Bangladesh, code=BD, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Barbados, code=BB, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Belarus, code=BY, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Belgium, code=BE, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Belize, code=BZ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Benin, code=BJ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Bermuda, code=BM, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Bhutan, code=BT, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Bolivia, Plurinational State of, code=BO, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Bonaire, Sint Eustatius and Saba, code=BQ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Bosnia and Herzegovina, code=BA, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Botswana, code=BW, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Bouvet Island, code=BV, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Brazil, code=BR, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=British Indian Ocean Territory, code=IO, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Brunei Darussalam, code=BN, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Bulgaria, code=BG, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Burkina Faso, code=BF, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Burundi, code=BI, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Cambodia, code=KH, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Cameroon, code=CM, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Canada, code=CA, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Cape Verde, code=CV, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Cayman Islands, code=KY, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Central African Republic, code=CF, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Chad, code=TD, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Chile, code=CL, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=China, code=CN, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Christmas Island, code=CX, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Cocos (Keeling) Islands, code=CC, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Colombia, code=CO, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Comoros, code=KM, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Congo, code=CG, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Congo, the Democratic Republic of the, code=CD, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Cook Islands, code=CK, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Costa Rica, code=CR, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Côte d'Ivoire, code=CI, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Croatia, code=HR, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Cuba, code=CU, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Curaçao, code=CW, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Cyprus, code=CY, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Czech Republic, code=CZ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Denmark, code=DK, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Djibouti, code=DJ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Dominica, code=DM, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Dominican Republic, code=DO, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Ecuador, code=EC, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Egypt, code=EG, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=El Salvador, code=SV, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Equatorial Guinea, code=GQ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Eritrea, code=ER, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Estonia, code=EE, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Ethiopia, code=ET, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Falkland Islands (Malvinas), code=FK, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Faroe Islands, code=FO, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Fiji, code=FJ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Finland, code=FI, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=France, code=FR, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=French Guiana, code=GF, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=French Polynesia, code=PF, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=French Southern Territories, code=TF, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Gabon, code=GA, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Gambia, code=GM, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Georgia, code=GE, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Germany, code=DE, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Ghana, code=GH, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Gibraltar, code=GI, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Greece, code=GR, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Greenland, code=GL, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Grenada, code=GD, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Guadeloupe, code=GP, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Guam, code=GU, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Guatemala, code=GT, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Guernsey, code=GG, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Guinea, code=GN, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Guinea-Bissau, code=GW, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Guyana, code=GY, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Haiti, code=HT, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Heard Island and McDonald Islands, code=HM, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Holy See (Vatican City State), code=VA, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Honduras, code=HN, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Hong Kong, code=HK, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Hungary, code=HU, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Iceland, code=IS, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=India, code=IN, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Indonesia, code=ID, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Iran, Islamic Republic of, code=IR, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Iraq, code=IQ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Ireland, code=IE, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Isle of Man, code=IM, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Israel, code=IL, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Italy, code=IT, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Jamaica, code=JM, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Japan, code=JP, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Jersey, code=JE, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Jordan, code=JO, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Kazakhstan, code=KZ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Kenya, code=KE, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Kiribati, code=KI, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Korea, Democratic People's Republic of, code=KP, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Korea, Republic of, code=KR, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Kuwait, code=KW, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Kyrgyzstan, code=KG, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Lao People's Democratic Republic, code=LA, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Latvia, code=LV, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Lebanon, code=LB, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Lesotho, code=LS, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Liberia, code=LR, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Libya, code=LY, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Liechtenstein, code=LI, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Lithuania, code=LT, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Luxembourg, code=LU, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Macao, code=MO, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Macedonia, the Former Yugoslav Republic of, code=MK, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Madagascar, code=MG, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Malawi, code=MW, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Malaysia, code=MY, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Maldives, code=MV, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Mali, code=ML, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Malta, code=MT, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Marshall Islands, code=MH, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Martinique, code=MQ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Mauritania, code=MR, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Mauritius, code=MU, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Mayotte, code=YT, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Mexico, code=MX, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Micronesia, Federated States of, code=FM, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Moldova, Republic of, code=MD, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Monaco, code=MC, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Mongolia, code=MN, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Montenegro, code=ME, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Montserrat, code=MS, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Morocco, code=MA, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Mozambique, code=MZ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Myanmar, code=MM, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Namibia, code=NA, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Nauru, code=NR, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Nepal, code=NP, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Netherlands, code=NL, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=New Caledonia, code=NC, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=New Zealand, code=NZ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Nicaragua, code=NI, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Niger, code=NE, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Nigeria, code=NG, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Niue, code=NU, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Norfolk Island, code=NF, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Northern Mariana Islands, code=MP, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Norway, code=NO, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Oman, code=OM, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Pakistan, code=PK, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Palau, code=PW, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Palestine, State of, code=PS, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Panama, code=PA, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Papua New Guinea, code=PG, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Paraguay, code=PY, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Peru, code=PE, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Philippines, code=PH, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Pitcairn, code=PN, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Poland, code=PL, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Portugal, code=PT, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Puerto Rico, code=PR, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Qatar, code=QA, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Réunion, code=RE, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Romania, code=RO, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Russian Federation, code=RU, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Rwanda, code=RW, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Saint Barthélemy, code=BL, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Saint Helena, Ascension and Tristan da Cunha, code=SH, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Saint Kitts and Nevis, code=KN, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Saint Lucia, code=LC, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Saint Martin (French part), code=MF, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Saint Pierre and Miquelon, code=PM, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Saint Vincent and the Grenadines, code=VC, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Samoa, code=WS, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=San Marino, code=SM, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Sao Tome and Principe, code=ST, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Saudi Arabia, code=SA, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Senegal, code=SN, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Serbia, code=RS, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Seychelles, code=SC, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Sierra Leone, code=SL, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Singapore, code=SG, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Sint Maarten (Dutch part), code=SX, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Slovakia, code=SK, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Slovenia, code=SI, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Solomon Islands, code=SB, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Somalia, code=SO, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=South Africa, code=ZA, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=South Georgia and the South Sandwich Islands, code=GS, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=South Sudan, code=SS, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Spain, code=ES, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Sri Lanka, code=LK, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Sudan, code=SD, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Suriname, code=SR, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Svalbard and Jan Mayen, code=SJ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Swaziland, code=SZ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Sweden, code=SE, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Switzerland, code=CH, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Syrian Arab Republic, code=SY, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Taiwan, Province of China, code=TW, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Tajikistan, code=TJ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Tanzania, United Republic of, code=TZ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Thailand, code=TH, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Timor-Leste, code=TL, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Togo, code=TG, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Tokelau, code=TK, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Tonga, code=TO, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Trinidad and Tobago, code=TT, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Tunisia, code=TN, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Turkey, code=TR, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Turkmenistan, code=TM, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Turks and Caicos Islands, code=TC, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Tuvalu, code=TV, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Uganda, code=UG, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Ukraine, code=UA, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=United Arab Emirates, code=AE, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=United Kingdom, code=GB, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=United States, code=US, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=United States Minor Outlying Islands, code=UM, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Uruguay, code=UY, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Uzbekistan, code=UZ, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Vanuatu, code=VU, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Venezuela, Bolivarian Republic of, code=VE, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Vietnam, code=VN, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Virgin Islands, British, code=VG, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Virgin Islands, U.S., code=VI, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Wallis and Futuna, code=WF, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Western Sahara, code=EH, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Yemen, code=YE, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Zambia, code=ZM, numberOfHolidays=0)
-PublicHolidays.CountryInfo(name=Zimbabwe, code=ZW, numberOfHolidays=0)
+1, Name: Åland Islands, Code: AX, Number Of Holidays: 0
+2, Name: Albania, Code: AL, Number Of Holidays: 0
+3, Name: Andorra, Code: AD, Number Of Holidays: 0
+4, Name: Argentina, Code: AR, Number Of Holidays: 0
+5, Name: Australia, Code: AU, Number Of Holidays: 0
+6, Name: Austria, Code: AT, Number Of Holidays: 0
+7, Name: Bahamas, Code: BS, Number Of Holidays: 0
+8, Name: Barbados, Code: BB, Number Of Holidays: 0
+9, Name: Belarus, Code: BY, Number Of Holidays: 0
+10, Name: Belgium, Code: BE, Number Of Holidays: 0
+11, Name: Belize, Code: BZ, Number Of Holidays: 0
+12, Name: Benin, Code: BJ, Number Of Holidays: 0
+13, Name: Bolivia, Plurinational State of, Code: BO, Number Of Holidays: 0
+14, Name: Bosnia and Herzegovina, Code: BA, Number Of Holidays: 0
+15, Name: Botswana, Code: BW, Number Of Holidays: 0
+16, Name: Brazil, Code: BR, Number Of Holidays: 0
+17, Name: Bulgaria, Code: BG, Number Of Holidays: 0
+18, Name: Canada, Code: CA, Number Of Holidays: 0
+19, Name: Chile, Code: CL, Number Of Holidays: 0
+20, Name: China, Code: CN, Number Of Holidays: 0
+21, Name: Colombia, Code: CO, Number Of Holidays: 0
+22, Name: Costa Rica, Code: CR, Number Of Holidays: 0
+23, Name: Croatia, Code: HR, Number Of Holidays: 0
+24, Name: Cuba, Code: CU, Number Of Holidays: 0
+25, Name: Cyprus, Code: CY, Number Of Holidays: 0
+26, Name: Czech Republic, Code: CZ, Number Of Holidays: 0
+27, Name: Denmark, Code: DK, Number Of Holidays: 0
+28, Name: Dominican Republic, Code: DO, Number Of Holidays: 0
+29, Name: Ecuador, Code: EC, Number Of Holidays: 0
+30, Name: Egypt, Code: EG, Number Of Holidays: 0
+31, Name: El Salvador, Code: SV, Number Of Holidays: 0
+32, Name: Estonia, Code: EE, Number Of Holidays: 0
+33, Name: Faroe Islands, Code: FO, Number Of Holidays: 0
+34, Name: Finland, Code: FI, Number Of Holidays: 0
+35, Name: France, Code: FR, Number Of Holidays: 0
+36, Name: Gabon, Code: GA, Number Of Holidays: 0
+37, Name: Gambia, Code: GM, Number Of Holidays: 0
+38, Name: Germany, Code: DE, Number Of Holidays: 0
+39, Name: Gibraltar, Code: GI, Number Of Holidays: 0
+40, Name: Greece, Code: GR, Number Of Holidays: 0
+41, Name: Greenland, Code: GL, Number Of Holidays: 0
+42, Name: Grenada, Code: GD, Number Of Holidays: 0
+43, Name: Guatemala, Code: GT, Number Of Holidays: 0
+44, Name: Guernsey, Code: GG, Number Of Holidays: 0
+45, Name: Guyana, Code: GY, Number Of Holidays: 0
+46, Name: Haiti, Code: HT, Number Of Holidays: 0
+47, Name: Holy See (Vatican City State), Code: VA, Number Of Holidays: 0
+48, Name: Honduras, Code: HN, Number Of Holidays: 0
+49, Name: Hungary, Code: HU, Number Of Holidays: 0
+50, Name: Iceland, Code: IS, Number Of Holidays: 0
+51, Name: Indonesia, Code: ID, Number Of Holidays: 0
+52, Name: Ireland, Code: IE, Number Of Holidays: 0
+53, Name: Isle of Man, Code: IM, Number Of Holidays: 0
+54, Name: Italy, Code: IT, Number Of Holidays: 0
+55, Name: Jamaica, Code: JM, Number Of Holidays: 0
+56, Name: Japan, Code: JP, Number Of Holidays: 0
+57, Name: Jersey, Code: JE, Number Of Holidays: 0
+58, Name: Korea, Republic of, Code: KR, Number Of Holidays: 0
+59, Name: Latvia, Code: LV, Number Of Holidays: 0
+60, Name: Lesotho, Code: LS, Number Of Holidays: 0
+61, Name: Liechtenstein, Code: LI, Number Of Holidays: 0
+62, Name: Lithuania, Code: LT, Number Of Holidays: 0
+63, Name: Luxembourg, Code: LU, Number Of Holidays: 0
+64, Name: Macedonia, the Former Yugoslav Republic of, Code: MK, Number Of Holidays: 0
+65, Name: Madagascar, Code: MG, Number Of Holidays: 0
+66, Name: Malta, Code: MT, Number Of Holidays: 0
+67, Name: Mexico, Code: MX, Number Of Holidays: 0
+68, Name: Moldova, Republic of, Code: MD, Number Of Holidays: 0
+69, Name: Monaco, Code: MC, Number Of Holidays: 0
+70, Name: Mongolia, Code: MN, Number Of Holidays: 0
+71, Name: Montenegro, Code: ME, Number Of Holidays: 0
+72, Name: Montserrat, Code: MS, Number Of Holidays: 0
+73, Name: Morocco, Code: MA, Number Of Holidays: 0
+74, Name: Mozambique, Code: MZ, Number Of Holidays: 0
+75, Name: Namibia, Code: NA, Number Of Holidays: 0
+76, Name: Netherlands, Code: NL, Number Of Holidays: 0
+77, Name: New Zealand, Code: NZ, Number Of Holidays: 0
+78, Name: Nicaragua, Code: NI, Number Of Holidays: 0
+79, Name: Niger, Code: NE, Number Of Holidays: 0
+80, Name: Nigeria, Code: NG, Number Of Holidays: 0
+81, Name: Norway, Code: NO, Number Of Holidays: 0
+82, Name: Panama, Code: PA, Number Of Holidays: 0
+83, Name: Papua New Guinea, Code: PG, Number Of Holidays: 0
+84, Name: Paraguay, Code: PY, Number Of Holidays: 0
+85, Name: Peru, Code: PE, Number Of Holidays: 0
+86, Name: Poland, Code: PL, Number Of Holidays: 0
+87, Name: Portugal, Code: PT, Number Of Holidays: 0
+88, Name: Puerto Rico, Code: PR, Number Of Holidays: 0
+89, Name: Romania, Code: RO, Number Of Holidays: 0
+90, Name: Russian Federation, Code: RU, Number Of Holidays: 0
+91, Name: San Marino, Code: SM, Number Of Holidays: 0
+92, Name: Serbia, Code: RS, Number Of Holidays: 0
+93, Name: Singapore, Code: SG, Number Of Holidays: 0
+94, Name: Slovakia, Code: SK, Number Of Holidays: 0
+95, Name: Slovenia, Code: SI, Number Of Holidays: 0
+96, Name: South Africa, Code: ZA, Number Of Holidays: 0
+97, Name: Spain, Code: ES, Number Of Holidays: 0
+98, Name: Suriname, Code: SR, Number Of Holidays: 0
+99, Name: Svalbard and Jan Mayen, Code: SJ, Number Of Holidays: 0
+100, Name: Sweden, Code: SE, Number Of Holidays: 0
+101, Name: Switzerland, Code: CH, Number Of Holidays: 0
+102, Name: Tunisia, Code: TN, Number Of Holidays: 0
+103, Name: Turkey, Code: TR, Number Of Holidays: 0
+104, Name: Ukraine, Code: UA, Number Of Holidays: 0
+105, Name: United Kingdom, Code: GB, Number Of Holidays: 0
+106, Name: United States, Code: US, Number Of Holidays: 0
+107, Name: Uruguay, Code: UY, Number Of Holidays: 0
+108, Name: Venezuela, Bolivarian Republic of, Code: VE, Number Of Holidays: 0
+109, Name: Vietnam, Code: VN, Number Of Holidays: 0
+110, Name: Zimbabwe, Code: ZW, Number Of Holidays: 0
 For each country we ask for public holidays : 
 
-PublicHolidays.CountryInfo(name=Åland Islands, code=AX, numberOfHolidays=19)
-PublicHolidays.CountryInfo(name=Albania, code=AL, numberOfHolidays=12)
-PublicHolidays.CountryInfo(name=Andorra, code=AD, numberOfHolidays=4)
-PublicHolidays.CountryInfo(name=Argentina, code=AR, numberOfHolidays=16)
-PublicHolidays.CountryInfo(name=Australia, code=AU, numberOfHolidays=21)
-PublicHolidays.CountryInfo(name=Austria, code=AT, numberOfHolidays=13)
-PublicHolidays.CountryInfo(name=Bahamas, code=BS, numberOfHolidays=11)
-PublicHolidays.CountryInfo(name=Barbados, code=BB, numberOfHolidays=12)
-PublicHolidays.CountryInfo(name=Belarus, code=BY, numberOfHolidays=9)
-PublicHolidays.CountryInfo(name=Belgium, code=BE, numberOfHolidays=11)
-PublicHolidays.CountryInfo(name=Belize, code=BZ, numberOfHolidays=14)
-PublicHolidays.CountryInfo(name=Benin, code=BJ, numberOfHolidays=14)
-PublicHolidays.CountryInfo(name=Bolivia, Plurinational State of, code=BO, numberOfHolidays=12)
-PublicHolidays.CountryInfo(name=Bosnia and Herzegovina, code=BA, numberOfHolidays=15)
-PublicHolidays.CountryInfo(name=Botswana, code=BW, numberOfHolidays=11)
-PublicHolidays.CountryInfo(name=Brazil, code=BR, numberOfHolidays=13)
-PublicHolidays.CountryInfo(name=Bulgaria, code=BG, numberOfHolidays=14)
-PublicHolidays.CountryInfo(name=Canada, code=CA, numberOfHolidays=29)
-PublicHolidays.CountryInfo(name=Chile, code=CL, numberOfHolidays=22)
-PublicHolidays.CountryInfo(name=China, code=CN, numberOfHolidays=7)
-PublicHolidays.CountryInfo(name=Colombia, code=CO, numberOfHolidays=20)
-PublicHolidays.CountryInfo(name=Costa Rica, code=CR, numberOfHolidays=11)
-PublicHolidays.CountryInfo(name=Croatia, code=HR, numberOfHolidays=14)
-PublicHolidays.CountryInfo(name=Cuba, code=CU, numberOfHolidays=9)
-PublicHolidays.CountryInfo(name=Cyprus, code=CY, numberOfHolidays=17)
-PublicHolidays.CountryInfo(name=Czech Republic, code=CZ, numberOfHolidays=13)
-PublicHolidays.CountryInfo(name=Denmark, code=DK, numberOfHolidays=15)
-PublicHolidays.CountryInfo(name=Dominican Republic, code=DO, numberOfHolidays=13)
-PublicHolidays.CountryInfo(name=Ecuador, code=EC, numberOfHolidays=11)
-PublicHolidays.CountryInfo(name=Egypt, code=EG, numberOfHolidays=6)
-PublicHolidays.CountryInfo(name=El Salvador, code=SV, numberOfHolidays=26)
-PublicHolidays.CountryInfo(name=Estonia, code=EE, numberOfHolidays=12)
-PublicHolidays.CountryInfo(name=Faroe Islands, code=FO, numberOfHolidays=17)
-PublicHolidays.CountryInfo(name=Finland, code=FI, numberOfHolidays=15)
-PublicHolidays.CountryInfo(name=France, code=FR, numberOfHolidays=15)
-PublicHolidays.CountryInfo(name=Gabon, code=GA, numberOfHolidays=11)
-PublicHolidays.CountryInfo(name=Gambia, code=GM, numberOfHolidays=9)
-PublicHolidays.CountryInfo(name=Germany, code=DE, numberOfHolidays=19)
-PublicHolidays.CountryInfo(name=Gibraltar, code=GI, numberOfHolidays=12)
-PublicHolidays.CountryInfo(name=Greece, code=GR, numberOfHolidays=15)
-PublicHolidays.CountryInfo(name=Greenland, code=GL, numberOfHolidays=16)
-PublicHolidays.CountryInfo(name=Grenada, code=GD, numberOfHolidays=13)
-PublicHolidays.CountryInfo(name=Guatemala, code=GT, numberOfHolidays=13)
-PublicHolidays.CountryInfo(name=Guernsey, code=GG, numberOfHolidays=9)
-PublicHolidays.CountryInfo(name=Guyana, code=GY, numberOfHolidays=11)
-PublicHolidays.CountryInfo(name=Haiti, code=HT, numberOfHolidays=20)
-PublicHolidays.CountryInfo(name=Holy See (Vatican City State), code=VA, numberOfHolidays=15)
-PublicHolidays.CountryInfo(name=Honduras, code=HN, numberOfHolidays=11)
-PublicHolidays.CountryInfo(name=Hungary, code=HU, numberOfHolidays=13)
-PublicHolidays.CountryInfo(name=Iceland, code=IS, numberOfHolidays=16)
-PublicHolidays.CountryInfo(name=Indonesia, code=ID, numberOfHolidays=8)
-PublicHolidays.CountryInfo(name=Ireland, code=IE, numberOfHolidays=10)
-PublicHolidays.CountryInfo(name=Isle of Man, code=IM, numberOfHolidays=11)
-PublicHolidays.CountryInfo(name=Italy, code=IT, numberOfHolidays=12)
-PublicHolidays.CountryInfo(name=Jamaica, code=JM, numberOfHolidays=10)
-PublicHolidays.CountryInfo(name=Japan, code=JP, numberOfHolidays=16)
-PublicHolidays.CountryInfo(name=Jersey, code=JE, numberOfHolidays=9)
-PublicHolidays.CountryInfo(name=Korea, Republic of, code=KR, numberOfHolidays=15)
-PublicHolidays.CountryInfo(name=Latvia, code=LV, numberOfHolidays=14)
-PublicHolidays.CountryInfo(name=Lesotho, code=LS, numberOfHolidays=11)
-PublicHolidays.CountryInfo(name=Liechtenstein, code=LI, numberOfHolidays=19)
-PublicHolidays.CountryInfo(name=Lithuania, code=LT, numberOfHolidays=14)
-PublicHolidays.CountryInfo(name=Luxembourg, code=LU, numberOfHolidays=12)
-PublicHolidays.CountryInfo(name=Macedonia, the Former Yugoslav Republic of, code=MK, numberOfHolidays=12)
-PublicHolidays.CountryInfo(name=Madagascar, code=MG, numberOfHolidays=10)
-PublicHolidays.CountryInfo(name=Malta, code=MT, numberOfHolidays=14)
-PublicHolidays.CountryInfo(name=Mexico, code=MX, numberOfHolidays=7)
-PublicHolidays.CountryInfo(name=Moldova, Republic of, code=MD, numberOfHolidays=16)
-PublicHolidays.CountryInfo(name=Monaco, code=MC, numberOfHolidays=12)
-PublicHolidays.CountryInfo(name=Mongolia, code=MN, numberOfHolidays=10)
-PublicHolidays.CountryInfo(name=Montenegro, code=ME, numberOfHolidays=20)
-PublicHolidays.CountryInfo(name=Montserrat, code=MS, numberOfHolidays=11)
-PublicHolidays.CountryInfo(name=Morocco, code=MA, numberOfHolidays=9)
-PublicHolidays.CountryInfo(name=Mozambique, code=MZ, numberOfHolidays=9)
-PublicHolidays.CountryInfo(name=Namibia, code=NA, numberOfHolidays=12)
-PublicHolidays.CountryInfo(name=Netherlands, code=NL, numberOfHolidays=11)
-PublicHolidays.CountryInfo(name=New Zealand, code=NZ, numberOfHolidays=23)
-PublicHolidays.CountryInfo(name=Nicaragua, code=NI, numberOfHolidays=12)
-PublicHolidays.CountryInfo(name=Niger, code=NE, numberOfHolidays=7)
-PublicHolidays.CountryInfo(name=Nigeria, code=NG, numberOfHolidays=10)
-PublicHolidays.CountryInfo(name=Norway, code=NO, numberOfHolidays=12)
-PublicHolidays.CountryInfo(name=Panama, code=PA, numberOfHolidays=13)
-PublicHolidays.CountryInfo(name=Papua New Guinea, code=PG, numberOfHolidays=11)
-PublicHolidays.CountryInfo(name=Paraguay, code=PY, numberOfHolidays=12)
-PublicHolidays.CountryInfo(name=Peru, code=PE, numberOfHolidays=13)
-PublicHolidays.CountryInfo(name=Poland, code=PL, numberOfHolidays=13)
-PublicHolidays.CountryInfo(name=Portugal, code=PT, numberOfHolidays=17)
-PublicHolidays.CountryInfo(name=Puerto Rico, code=PR, numberOfHolidays=21)
-PublicHolidays.CountryInfo(name=Romania, code=RO, numberOfHolidays=15)
-PublicHolidays.CountryInfo(name=Russian Federation, code=RU, numberOfHolidays=13)
-PublicHolidays.CountryInfo(name=San Marino, code=SM, numberOfHolidays=18)
-PublicHolidays.CountryInfo(name=Serbia, code=RS, numberOfHolidays=11)
-PublicHolidays.CountryInfo(name=Singapore, code=SG, numberOfHolidays=7)
-PublicHolidays.CountryInfo(name=Slovakia, code=SK, numberOfHolidays=15)
-PublicHolidays.CountryInfo(name=Slovenia, code=SI, numberOfHolidays=15)
-PublicHolidays.CountryInfo(name=South Africa, code=ZA, numberOfHolidays=12)
-PublicHolidays.CountryInfo(name=Spain, code=ES, numberOfHolidays=36)
-PublicHolidays.CountryInfo(name=Suriname, code=SR, numberOfHolidays=18)
-PublicHolidays.CountryInfo(name=Svalbard and Jan Mayen, code=SJ, numberOfHolidays=12)
-PublicHolidays.CountryInfo(name=Sweden, code=SE, numberOfHolidays=16)
-PublicHolidays.CountryInfo(name=Switzerland, code=CH, numberOfHolidays=19)
-PublicHolidays.CountryInfo(name=Tunisia, code=TN, numberOfHolidays=9)
-PublicHolidays.CountryInfo(name=Turkey, code=TR, numberOfHolidays=7)
-PublicHolidays.CountryInfo(name=Ukraine, code=UA, numberOfHolidays=11)
-PublicHolidays.CountryInfo(name=United Kingdom, code=GB, numberOfHolidays=17)
-PublicHolidays.CountryInfo(name=United States, code=US, numberOfHolidays=13)
-PublicHolidays.CountryInfo(name=Uruguay, code=UY, numberOfHolidays=15)
-PublicHolidays.CountryInfo(name=Venezuela, Bolivarian Republic of, code=VE, numberOfHolidays=38)
-PublicHolidays.CountryInfo(name=Vietnam, code=VN, numberOfHolidays=4)
-PublicHolidays.CountryInfo(name=Zimbabwe, code=ZW, numberOfHolidays=13)
+1, Name: Åland Islands, Code: AX, Number Of Holidays: 19
+2, Name: Albania, Code: AL, Number Of Holidays: 12
+3, Name: Andorra, Code: AD, Number Of Holidays: 4
+4, Name: Argentina, Code: AR, Number Of Holidays: 16
+5, Name: Australia, Code: AU, Number Of Holidays: 21
+6, Name: Austria, Code: AT, Number Of Holidays: 13
+7, Name: Bahamas, Code: BS, Number Of Holidays: 11
+8, Name: Barbados, Code: BB, Number Of Holidays: 12
+9, Name: Belarus, Code: BY, Number Of Holidays: 9
+10, Name: Belgium, Code: BE, Number Of Holidays: 11
+11, Name: Belize, Code: BZ, Number Of Holidays: 14
+12, Name: Benin, Code: BJ, Number Of Holidays: 14
+13, Name: Bolivia, Plurinational State of, Code: BO, Number Of Holidays: 12
+14, Name: Bosnia and Herzegovina, Code: BA, Number Of Holidays: 15
+15, Name: Botswana, Code: BW, Number Of Holidays: 11
+16, Name: Brazil, Code: BR, Number Of Holidays: 13
+17, Name: Bulgaria, Code: BG, Number Of Holidays: 14
+18, Name: Canada, Code: CA, Number Of Holidays: 29
+19, Name: Chile, Code: CL, Number Of Holidays: 22
+20, Name: China, Code: CN, Number Of Holidays: 7
+21, Name: Colombia, Code: CO, Number Of Holidays: 20
+22, Name: Costa Rica, Code: CR, Number Of Holidays: 11
+23, Name: Croatia, Code: HR, Number Of Holidays: 14
+24, Name: Cuba, Code: CU, Number Of Holidays: 9
+25, Name: Cyprus, Code: CY, Number Of Holidays: 17
+26, Name: Czech Republic, Code: CZ, Number Of Holidays: 13
+27, Name: Denmark, Code: DK, Number Of Holidays: 15
+28, Name: Dominican Republic, Code: DO, Number Of Holidays: 13
+29, Name: Ecuador, Code: EC, Number Of Holidays: 11
+30, Name: Egypt, Code: EG, Number Of Holidays: 6
+31, Name: El Salvador, Code: SV, Number Of Holidays: 26
+32, Name: Estonia, Code: EE, Number Of Holidays: 12
+33, Name: Faroe Islands, Code: FO, Number Of Holidays: 17
+34, Name: Finland, Code: FI, Number Of Holidays: 15
+35, Name: France, Code: FR, Number Of Holidays: 15
+36, Name: Gabon, Code: GA, Number Of Holidays: 11
+37, Name: Gambia, Code: GM, Number Of Holidays: 9
+38, Name: Germany, Code: DE, Number Of Holidays: 19
+39, Name: Gibraltar, Code: GI, Number Of Holidays: 12
+40, Name: Greece, Code: GR, Number Of Holidays: 15
+41, Name: Greenland, Code: GL, Number Of Holidays: 16
+42, Name: Grenada, Code: GD, Number Of Holidays: 13
+43, Name: Guatemala, Code: GT, Number Of Holidays: 13
+44, Name: Guernsey, Code: GG, Number Of Holidays: 9
+45, Name: Guyana, Code: GY, Number Of Holidays: 11
+46, Name: Haiti, Code: HT, Number Of Holidays: 20
+47, Name: Holy See (Vatican City State), Code: VA, Number Of Holidays: 15
+48, Name: Honduras, Code: HN, Number Of Holidays: 11
+49, Name: Hungary, Code: HU, Number Of Holidays: 13
+50, Name: Iceland, Code: IS, Number Of Holidays: 16
+51, Name: Indonesia, Code: ID, Number Of Holidays: 8
+52, Name: Ireland, Code: IE, Number Of Holidays: 10
+53, Name: Isle of Man, Code: IM, Number Of Holidays: 11
+54, Name: Italy, Code: IT, Number Of Holidays: 12
+55, Name: Jamaica, Code: JM, Number Of Holidays: 10
+56, Name: Japan, Code: JP, Number Of Holidays: 16
+57, Name: Jersey, Code: JE, Number Of Holidays: 9
+58, Name: Korea, Republic of, Code: KR, Number Of Holidays: 15
+59, Name: Latvia, Code: LV, Number Of Holidays: 14
+60, Name: Lesotho, Code: LS, Number Of Holidays: 11
+61, Name: Liechtenstein, Code: LI, Number Of Holidays: 19
+62, Name: Lithuania, Code: LT, Number Of Holidays: 14
+63, Name: Luxembourg, Code: LU, Number Of Holidays: 12
+64, Name: Macedonia, the Former Yugoslav Republic of, Code: MK, Number Of Holidays: 12
+65, Name: Madagascar, Code: MG, Number Of Holidays: 10
+66, Name: Malta, Code: MT, Number Of Holidays: 14
+67, Name: Mexico, Code: MX, Number Of Holidays: 7
+68, Name: Moldova, Republic of, Code: MD, Number Of Holidays: 16
+69, Name: Monaco, Code: MC, Number Of Holidays: 12
+70, Name: Mongolia, Code: MN, Number Of Holidays: 10
+71, Name: Montenegro, Code: ME, Number Of Holidays: 20
+72, Name: Montserrat, Code: MS, Number Of Holidays: 11
+73, Name: Morocco, Code: MA, Number Of Holidays: 9
+74, Name: Mozambique, Code: MZ, Number Of Holidays: 9
+75, Name: Namibia, Code: NA, Number Of Holidays: 12
+76, Name: Netherlands, Code: NL, Number Of Holidays: 11
+77, Name: New Zealand, Code: NZ, Number Of Holidays: 23
+78, Name: Nicaragua, Code: NI, Number Of Holidays: 12
+79, Name: Niger, Code: NE, Number Of Holidays: 7
+80, Name: Nigeria, Code: NG, Number Of Holidays: 10
+81, Name: Norway, Code: NO, Number Of Holidays: 12
+82, Name: Panama, Code: PA, Number Of Holidays: 13
+83, Name: Papua New Guinea, Code: PG, Number Of Holidays: 11
+84, Name: Paraguay, Code: PY, Number Of Holidays: 12
+85, Name: Peru, Code: PE, Number Of Holidays: 13
+86, Name: Poland, Code: PL, Number Of Holidays: 13
+87, Name: Portugal, Code: PT, Number Of Holidays: 17
+88, Name: Puerto Rico, Code: PR, Number Of Holidays: 21
+89, Name: Romania, Code: RO, Number Of Holidays: 15
+90, Name: Russian Federation, Code: RU, Number Of Holidays: 13
+91, Name: San Marino, Code: SM, Number Of Holidays: 18
+92, Name: Serbia, Code: RS, Number Of Holidays: 11
+93, Name: Singapore, Code: SG, Number Of Holidays: 7
+94, Name: Slovakia, Code: SK, Number Of Holidays: 15
+95, Name: Slovenia, Code: SI, Number Of Holidays: 15
+96, Name: South Africa, Code: ZA, Number Of Holidays: 12
+97, Name: Spain, Code: ES, Number Of Holidays: 36
+98, Name: Suriname, Code: SR, Number Of Holidays: 18
+99, Name: Svalbard and Jan Mayen, Code: SJ, Number Of Holidays: 12
+100, Name: Sweden, Code: SE, Number Of Holidays: 16
+101, Name: Switzerland, Code: CH, Number Of Holidays: 19
+102, Name: Tunisia, Code: TN, Number Of Holidays: 9
+103, Name: Turkey, Code: TR, Number Of Holidays: 7
+104, Name: Ukraine, Code: UA, Number Of Holidays: 11
+105, Name: United Kingdom, Code: GB, Number Of Holidays: 17
+106, Name: United States, Code: US, Number Of Holidays: 13
+107, Name: Uruguay, Code: UY, Number Of Holidays: 15
+108, Name: Venezuela, Bolivarian Republic of, Code: VE, Number Of Holidays: 38
+109, Name: Vietnam, Code: VN, Number Of Holidays: 4
+110, Name: Zimbabwe, Code: ZW, Number Of Holidays: 13
 
  Number of Countries :110
 Minimum Holidays Countries  : 
-Name: Andorra
-Code: AD
-Number Of Holidays: 4
+109 , Name: Vietnam, Code: VN, Number Of Holidays: 4
 
-Name: Vietnam
-Code: VN
-Number Of Holidays: 4
+3 , Name: Andorra, Code: AD, Number Of Holidays: 4
 
 Maximum Holidays Countries : 
-Name: Venezuela, Bolivarian Republic of
-Code: VE
-Number Of Holidays: 38
+108 , Name: Venezuela, Bolivarian Republic of, Code: VE, Number Of Holidays: 38
+
 
 Process finished with exit code 0
+
 
  ``` 
