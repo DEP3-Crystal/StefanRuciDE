@@ -28,7 +28,7 @@ import org.threeten.bp.LocalDate;
  * Public Holiday
  */
 @Schema(description = "Public Holiday")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2022-09-09T09:45:58.094Z[GMT]")
+//@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2022-09-09T09:45:58.094Z[GMT]")
 public class PublicHolidayV3Dto {
   @SerializedName("date")
   private LocalDate date = null;

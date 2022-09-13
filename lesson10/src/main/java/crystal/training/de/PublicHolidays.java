@@ -8,17 +8,18 @@ import lombok.Builder;
 import lombok.Data;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
+import org.apache.commons.csv.CSVPrinter;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.nio.charset.StandardCharsets;
 
 import java.util.List;
 import java.util.OptionalInt;
 import java.util.stream.Collectors;
 
-public class PublicHolidays {
+import static java.util.stream.IntStream.range;
+
+public class PublicHolidays extends Thread {
     @Builder(toBuilder = true)
     @Data
     static class CountryInfo {
@@ -26,6 +27,7 @@ public class PublicHolidays {
         private String code;
         private int numberOfHolidays;
     }
+
 
     public static void main(String[] args) throws IOException, ApiException {
         // Common pattern in java IS
@@ -45,11 +47,10 @@ public class PublicHolidays {
         ApiClient apiClient = new ApiClient();
         PublicHolidayApi publicHolidayApi = new PublicHolidayApi(apiClient);
         apiClient.setBasePath("https://date.nager.at");
-        InputStream is = PublicHolidays.class.getResourceAsStream("/cc.csv");
+        InputStream is = PublicHolidays.class.getResourceAsStream("/cc1.csv");
 
 
         List<PublicHolidayV3Dto> res;
-
         List<CountryInfo> countries;
 
         try (CSVParser csvParser = new CSVParser(new InputStreamReader(is, StandardCharsets.UTF_8), CSVFormat.DEFAULT)) {
@@ -64,11 +65,12 @@ public class PublicHolidays {
 
 
         System.out.println("Collect all ISO country code: \n");
-        countries.forEach(System.out::println);
+        printForEach(countries);
 
 
         System.out.println("For each country we ask for public holidays : \n");
         for (CountryInfo cRecord : countries) {
+
             res = publicHolidayApi.publicHolidayPublicHolidaysV3(2022, cRecord.code);
             try {
                 cRecord.setNumberOfHolidays(res.size());
@@ -80,33 +82,34 @@ public class PublicHolidays {
         countries.removeIf(country -> country.numberOfHolidays == -1);
 
 
-        countries.forEach(System.out::println);
+//        countries.forEach(System.out::println);
+        printForEach(countries);
+
 
         System.out.println("\n Number of Countries :" +countries.size());
 
-
+//        writeCsv(countries);
         //Select country(s) with min num of PH
-
-        OptionalInt min = countries.parallelStream()
-                                    .filter(e -> e.numberOfHolidays >= 0)
-                                    .mapToInt(c -> c.numberOfHolidays)
-                                    .min();
-        OptionalInt max = countries.parallelStream()
-                                    .filter(e -> e.numberOfHolidays >= 0)
-                                    .mapToInt(c -> c.numberOfHolidays)
-                                    .max();
-
-        int minH= min.getAsInt();
-        int maxH= max.getAsInt();
         System.out.println("Minimum Holidays Countries  : " );
-                countries.parallelStream()
-                        .filter(c -> c.numberOfHolidays==minH )
-                        .collect(Collectors.toList())
-                        .forEach((e)->{
-                            System.out.println("Name: "+e.name);
-                            System.out.println("Code: "+e.code);
-                            System.out.println("Number Of Holidays: "+e.numberOfHolidays+"\n");
-                        });
+
+        int minH = countries.parallelStream()
+                                    .filter(e -> e.numberOfHolidays >= 0)
+                                    .mapToInt(c -> c.numberOfHolidays)
+                                    .min().getAsInt();
+
+        countries.parallelStream()
+                .filter(c -> c.numberOfHolidays==minH )
+                .forEach((e)->{
+                    System.out.print(countries.indexOf(e)+1);
+                    System.out.print(" , Name: "+e.name);
+                    System.out.print(", Code: "+e.code);
+                    System.out.println(", Number Of Holidays: "+e.numberOfHolidays+"\n");
+                });
+
+        int maxH = countries.parallelStream()
+                                    .filter(e -> e.numberOfHolidays >= 0)
+                                    .mapToInt(c -> c.numberOfHolidays)
+                                    .max().getAsInt();
 
 
 //Select country(s) with max num of PH
@@ -115,12 +118,36 @@ public class PublicHolidays {
 
                 countries.parallelStream()
                         .filter(c -> c.numberOfHolidays==maxH )
-                        .collect(Collectors.toList())
                         .forEach((e)->{
-                            System.out.println("Name: "+e.name);
-                            System.out.println("Code: "+e.code);
-                            System.out.println("Number Of Holidays: "+e.numberOfHolidays);
+                            System.out.print(countries.indexOf(e)+1);
+                            System.out.print(" , Name: "+e.name);
+                            System.out.print(", Code: "+e.code);
+                            System.out.println(", Number Of Holidays: "+e.numberOfHolidays+"\n");
                         });
 
+    }
+    public static void printForEach(List<CountryInfo> countries){
+         countries.forEach((e)->{
+             System.out.print(countries.indexOf(e)+1);
+            System.out.print(", Name: "+e.name);
+            System.out.print(", Code: "+e.code);
+            System.out.println(", Number Of Holidays: "+e.numberOfHolidays);
+        });
+    }
+
+    public static void writeCsv(List<CountryInfo> countries,String path) throws IOException {
+//        File csvOutputFile = new File(path);
+        FileWriter out = new FileWriter(path);
+        try (CSVPrinter printer = new CSVPrinter(out, CSVFormat.DEFAULT)) {
+            countries.forEach(e -> {
+                try {
+                    printer.printRecord(e.name,e.code,e.numberOfHolidays);
+                } catch (IOException ex) {
+                    throw new RuntimeException(ex);
+                }
+            });
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
     }
 }
