@@ -1,249 +1,110 @@
-Afghanistan,AF
-Åland Islands,AX
-Albania,AL
-Algeria,DZ
-American Samoa,AS
-Andorra,AD
-Angola,AO
-Anguilla,AI
-Antarctica,AQ
-Antigua and Barbuda,AG
-Argentina,AR
-Armenia,AM
-Aruba,AW
-Australia,AU
-Austria,AT
-Azerbaijan,AZ
-Bahamas,BS
-Bahrain,BH
-Bangladesh,BD
-Barbados,BB
-Belarus,BY
-Belgium,BE
-Belize,BZ
-Benin,BJ
-Bermuda,BM
-Bhutan,BT
-"Bolivia, Plurinational State of",BO
-"Bonaire, Sint Eustatius and Saba",BQ
-Bosnia and Herzegovina,BA
-Botswana,BW
-Bouvet Island,BV
-Brazil,BR
-British Indian Ocean Territory,IO
-Brunei Darussalam,BN
-Bulgaria,BG
-Burkina Faso,BF
-Burundi,BI
-Cambodia,KH
-Cameroon,CM
-Canada,CA
-Cape Verde,CV
-Cayman Islands,KY
-Central African Republic,CF
-Chad,TD
-Chile,CL
-China,CN
-Christmas Island,CX
-Cocos (Keeling) Islands,CC
-Colombia,CO
-Comoros,KM
-Congo,CG
-"Congo, the Democratic Republic of the",CD
-Cook Islands,CK
-Costa Rica,CR
-Côte d'Ivoire,CI
-Croatia,HR
-Cuba,CU
-Curaçao,CW
-Cyprus,CY
-Czech Republic,CZ
-Denmark,DK
-Djibouti,DJ
-Dominica,DM
-Dominican Republic,DO
-Ecuador,EC
-Egypt,EG
-El Salvador,SV
-Equatorial Guinea,GQ
-Eritrea,ER
-Estonia,EE
-Ethiopia,ET
-Falkland Islands (Malvinas),FK
-Faroe Islands,FO
-Fiji,FJ
-Finland,FI
-France,FR
-French Guiana,GF
-French Polynesia,PF
-French Southern Territories,TF
-Gabon,GA
-Gambia,GM
-Georgia,GE
-Germany,DE
-Ghana,GH
-Gibraltar,GI
-Greece,GR
-Greenland,GL
-Grenada,GD
-Guadeloupe,GP
-Guam,GU
-Guatemala,GT
-Guernsey,GG
-Guinea,GN
-Guinea-Bissau,GW
-Guyana,GY
-Haiti,HT
-Heard Island and McDonald Islands,HM
-Holy See (Vatican City State),VA
-Honduras,HN
-Hong Kong,HK
-Hungary,HU
-Iceland,IS
-India,IN
-Indonesia,ID
-"Iran, Islamic Republic of",IR
-Iraq,IQ
-Ireland,IE
-Isle of Man,IM
-Israel,IL
-Italy,IT
-Jamaica,JM
-Japan,JP
-Jersey,JE
-Jordan,JO
-Kazakhstan,KZ
-Kenya,KE
-Kiribati,KI
-"Korea, Democratic People's Republic of",KP
-"Korea, Republic of",KR
-Kuwait,KW
-Kyrgyzstan,KG
-Lao People's Democratic Republic,LA
-Latvia,LV
-Lebanon,LB
-Lesotho,LS
-Liberia,LR
-Libya,LY
-Liechtenstein,LI
-Lithuania,LT
-Luxembourg,LU
-Macao,MO
-"Macedonia, the Former Yugoslav Republic of",MK
-Madagascar,MG
-Malawi,MW
-Malaysia,MY
-Maldives,MV
-Mali,ML
-Malta,MT
-Marshall Islands,MH
-Martinique,MQ
-Mauritania,MR
-Mauritius,MU
-Mayotte,YT
-Mexico,MX
-"Micronesia, Federated States of",FM
-"Moldova, Republic of",MD
-Monaco,MC
-Mongolia,MN
-Montenegro,ME
-Montserrat,MS
-Morocco,MA
-Mozambique,MZ
-Myanmar,MM
-Namibia,NA
-Nauru,NR
-Nepal,NP
-Netherlands,NL
-New Caledonia,NC
-New Zealand,NZ
-Nicaragua,NI
-Niger,NE
-Nigeria,NG
-Niue,NU
-Norfolk Island,NF
-Northern Mariana Islands,MP
-Norway,NO
-Oman,OM
-Pakistan,PK
-Palau,PW
-"Palestine, State of",PS
-Panama,PA
-Papua New Guinea,PG
-Paraguay,PY
-Peru,PE
-Philippines,PH
-Pitcairn,PN
-Poland,PL
-Portugal,PT
-Puerto Rico,PR
-Qatar,QA
-Réunion,RE
-Romania,RO
-Russian Federation,RU
-Rwanda,RW
-Saint Barthélemy,BL
-"Saint Helena, Ascension and Tristan da Cunha",SH
-Saint Kitts and Nevis,KN
-Saint Lucia,LC
-Saint Martin (French part),MF
-Saint Pierre and Miquelon,PM
-Saint Vincent and the Grenadines,VC
-Samoa,WS
-San Marino,SM
-Sao Tome and Principe,ST
-Saudi Arabia,SA
-Senegal,SN
-Serbia,RS
-Seychelles,SC
-Sierra Leone,SL
-Singapore,SG
-Sint Maarten (Dutch part),SX
-Slovakia,SK
-Slovenia,SI
-Solomon Islands,SB
-Somalia,SO
-South Africa,ZA
-South Georgia and the South Sandwich Islands,GS
-South Sudan,SS
-Spain,ES
-Sri Lanka,LK
-Sudan,SD
-Suriname,SR
-Svalbard and Jan Mayen,SJ
-Swaziland,SZ
-Sweden,SE
-Switzerland,CH
-Syrian Arab Republic,SY
-"Taiwan, Province of China",TW
-Tajikistan,TJ
-"Tanzania, United Republic of",TZ
-Thailand,TH
-Timor-Leste,TL
-Togo,TG
-Tokelau,TK
-Tonga,TO
-Trinidad and Tobago,TT
-Tunisia,TN
-Turkey,TR
-Turkmenistan,TM
-Turks and Caicos Islands,TC
-Tuvalu,TV
-Uganda,UG
-Ukraine,UA
-United Arab Emirates,AE
-United Kingdom,GB
-United States,US
-United States Minor Outlying Islands,UM
-Uruguay,UY
-Uzbekistan,UZ
-Vanuatu,VU
-"Venezuela, Bolivarian Republic of",VE
-Vietnam,VN
-"Virgin Islands, British",VG
-"Virgin Islands, U.S.",VI
-Wallis and Futuna,WF
-Western Sahara,EH
-Yemen,YE
-Zambia,ZM
-Zimbabwe,ZW
+"Åland Islands","AX","19"
+"Albania","AL","12"
+"Andorra","AD","4"
+"Argentina","AR","16"
+"Australia","AU","22"
+"Austria","AT","13"
+"Bahamas","BS","11"
+"Barbados","BB","12"
+"Belarus","BY","9"
+"Belgium","BE","11"
+"Belize","BZ","14"
+"Benin","BJ","14"
+"Bolivia, Plurinational State of","BO","12"
+"Bosnia and Herzegovina","BA","15"
+"Botswana","BW","11"
+"Brazil","BR","13"
+"Bulgaria","BG","14"
+"Canada","CA","30"
+"Chile","CL","22"
+"China","CN","7"
+"Colombia","CO","20"
+"Costa Rica","CR","11"
+"Croatia","HR","14"
+"Cuba","CU","9"
+"Cyprus","CY","17"
+"Czech Republic","CZ","13"
+"Denmark","DK","15"
+"Dominican Republic","DO","13"
+"Ecuador","EC","11"
+"Egypt","EG","6"
+"El Salvador","SV","26"
+"Estonia","EE","12"
+"Faroe Islands","FO","17"
+"Finland","FI","15"
+"France","FR","15"
+"Gabon","GA","11"
+"Gambia","GM","9"
+"Germany","DE","19"
+"Gibraltar","GI","12"
+"Greece","GR","15"
+"Greenland","GL","16"
+"Grenada","GD","13"
+"Guatemala","GT","13"
+"Guernsey","GG","9"
+"Guyana","GY","11"
+"Haiti","HT","20"
+"Holy See (Vatican City State)","VA","15"
+"Honduras","HN","11"
+"Hungary","HU","13"
+"Iceland","IS","16"
+"Indonesia","ID","8"
+"Ireland","IE","10"
+"Isle of Man","IM","11"
+"Italy","IT","12"
+"Jamaica","JM","10"
+"Japan","JP","16"
+"Jersey","JE","9"
+"Korea, Republic of","KR","15"
+"Latvia","LV","14"
+"Lesotho","LS","11"
+"Liechtenstein","LI","19"
+"Lithuania","LT","14"
+"Luxembourg","LU","12"
+"Macedonia, the Former Yugoslav Republic of","MK","12"
+"Madagascar","MG","10"
+"Malta","MT","14"
+"Mexico","MX","7"
+"Moldova, Republic of","MD","16"
+"Monaco","MC","12"
+"Mongolia","MN","10"
+"Montenegro","ME","20"
+"Montserrat","MS","11"
+"Morocco","MA","9"
+"Mozambique","MZ","9"
+"Namibia","NA","12"
+"Netherlands","NL","11"
+"New Zealand","NZ","24"
+"Nicaragua","NI","12"
+"Niger","NE","7"
+"Nigeria","NG","10"
+"Norway","NO","12"
+"Panama","PA","13"
+"Papua New Guinea","PG","11"
+"Paraguay","PY","12"
+"Peru","PE","13"
+"Poland","PL","13"
+"Portugal","PT","17"
+"Puerto Rico","PR","21"
+"Romania","RO","15"
+"Russian Federation","RU","13"
+"San Marino","SM","18"
+"Serbia","RS","11"
+"Singapore","SG","7"
+"Slovakia","SK","15"
+"Slovenia","SI","15"
+"South Africa","ZA","12"
+"Spain","ES","36"
+"Suriname","SR","18"
+"Svalbard and Jan Mayen","SJ","12"
+"Sweden","SE","16"
+"Switzerland","CH","19"
+"Tunisia","TN","9"
+"Turkey","TR","7"
+"Ukraine","UA","11"
+"United Kingdom","GB","17"
+"United States","US","13"
+"Uruguay","UY","15"
+"Venezuela, Bolivarian Republic of","VE","38"
+"Vietnam","VN","4"
+"Zimbabwe","ZW","13"
